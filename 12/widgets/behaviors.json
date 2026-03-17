@@ -1,0 +1,1 @@
+{"total":9,"items":[{"uid":"c1bf7d26c9bb27417430ff3ea618256c","name":"POM","statistic":{"failed":0,"broken":3,"skipped":0,"passed":3,"unknown":0,"total":6}},{"uid":"ebd0039f3c633663f358ad582769a5d9","name":"Fluent","statistic":{"failed":0,"broken":1,"skipped":0,"passed":2,"unknown":0,"total":3}}]}
