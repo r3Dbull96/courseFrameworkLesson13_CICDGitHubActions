@@ -1,8 +1,6 @@
 package ui;
 
-import Kiselev_George.configs.TestPropertiesConfig;
 import io.qameta.allure.Allure;
-import org.aeonbits.owner.ConfigFactory;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.WebDriver;
