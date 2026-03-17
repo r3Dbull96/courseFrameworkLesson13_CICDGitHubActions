@@ -17,7 +17,6 @@ import java.util.Map;
 
 public class BaseTest {
     public WebDriver driver;
-    TestPropertiesConfig configProperties = ConfigFactory.create(TestPropertiesConfig.class, System.getProperties());
     protected static final String BASE_URL = "https://bonigarcia.dev/selenium-webdriver-java/";
 
     @BeforeEach
